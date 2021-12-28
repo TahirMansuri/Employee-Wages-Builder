@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/EmployeeWagesBulider.iml" filepath="$PROJECT_DIR$/EmployeeWagesBulider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EmployeeWagesBuilder.iml" filepath="$PROJECT_DIR$/EmployeeWagesBuilder.iml" />
     </modules>
   </component>
 </project>
